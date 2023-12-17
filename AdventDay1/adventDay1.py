@@ -1,4 +1,4 @@
-f=open("test.txt", "r")
+f=open("AdventDay1\input.txt", "r")
 textList = {
     "one": 1,
     "two": 2,

@@ -1,1 +1,1 @@
-f=open("input.txt", "r")
+f=open("AdventDay\input.txt", "r")
