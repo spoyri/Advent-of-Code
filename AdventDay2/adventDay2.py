@@ -1,4 +1,4 @@
-f=open("AdventDay2\input.txt", "r")
+f=open("AdventDay2/input.txt", "r")
 result = 0
 for i in range(0, 100):
     string = f.readline()

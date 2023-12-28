@@ -1,4 +1,4 @@
-f = open("AdventDay8\input.txt", "r")
+f = open("AdventDay8/input.txt", "r")
 import math
 dirs = list(f.readline())[:-1]
 f.readline()

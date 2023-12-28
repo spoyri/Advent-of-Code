@@ -1,4 +1,4 @@
-f = open("AdventDay4\input.txt", "r")
+f = open("AdventDay4/input.txt", "r")
 result = 0
 dic = {}
 for a in range(219):

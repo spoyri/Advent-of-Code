@@ -1,4 +1,4 @@
-f = open("AdventDay6\input.txt", "r")
+f = open("AdventDay6/input.txt", "r")
 results = 1
 line = f.readline()
 times = [int(x) for x in line.split()[1:]]

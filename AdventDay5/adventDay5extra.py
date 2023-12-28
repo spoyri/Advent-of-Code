@@ -1,4 +1,4 @@
-f = open("AdventDay5\input.txt", "r")
+f = open("AdventDay5/input.txt", "r")
 line = f.readline()
 seeds = line.split()[1:]
 seeds = [int(i) for i in seeds] 

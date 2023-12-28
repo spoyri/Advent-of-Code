@@ -1,5 +1,5 @@
 from functools import cmp_to_key
-f = open("AdventDay7\input.txt", "r")
+f = open("AdventDay7/input.txt", "r")
 result = 0
 cardDict = {
     'A':13,

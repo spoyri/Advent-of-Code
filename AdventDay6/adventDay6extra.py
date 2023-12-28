@@ -1,4 +1,4 @@
-f = open("AdventDay6\input.txt", "r")
+f = open("AdventDay6/input.txt", "r")
 line = f.readline()
 time = int(''.join(line.split()[1:]))
 line = f.readline()
